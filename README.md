@@ -5,8 +5,8 @@
 **全面体验 ChatGPT 中文版，无需翻墙，即可体验 GPT-4 与更多功能服务，特别适合国内用户**     
 本指南旨在为用户提供全面的 **ChatGPT 中文版使用指南**，并整理国内常用的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手 ChatGPT，不论是个人使用还是专业需求。 
 
-**ChatGPT 中文版入口：[https://chat.lanjing.ai](https://chat.lanjing.ai)**   
-**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.xsimple.top/)**
+**ChatGPT 中文版入口：[https://chat.lanjing.ai](https://chat.lanjing.pro)**   
+**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com/)**
 
 ---
 
@@ -34,7 +34,7 @@
 
 | 镜像站点     | 地址                                           | 支持版本       | 免费额度 | 注册方式  | 稳定性 | 功能亮点       |
 |--------------|------------------------------------------------|---------------|----------|----------|--------|----------------|
-| **一下 AI**  | [chat.yixiaai.com](https://chat.yixiaai.com)   | GPT-4, GPT-3.5 | 有        | 扫码使用 | 高     | 中文支持、绘图功能 |
+| **一下 AI**  | [chat.yixiaai.com](https://xsimplechat.com)   | GPT-4, GPT-3.5 | 有        | 扫码使用 | 高     | 中文支持、绘图功能 |
 | **小智 AI** | [chat.lanjing.pro](https://chat.lanjing.pro)       | GPT-4, GPT-o1  | 有        | 邮箱注册 | 高     | 实时语音、视频对话 |
 | **AI工具集** | [yixiaai.cn](https://yixiaai.cn)               | GPT-4, GPT-3.5 | 有        | 邮箱注册 | 高     | 稳定快速、API调用  |
 | **蓝鲸 AI**  | [lanjing.ai](https://lanjing.pro)               | GPT-3.5        | 有        | 邮箱注册 | 中     | 适合新手        |
